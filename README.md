@@ -25,7 +25,7 @@
   <a href="https://linkedin.com/in/pavan-kumar-reddy-c" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/pavan_reddy.08" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/pavan73538" target="_blank"><img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/pavanreddy2004" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/pavanreddy_080304/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
