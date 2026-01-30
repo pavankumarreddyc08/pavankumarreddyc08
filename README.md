@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PAVAN KUMAR REDDY C</h1>
+<h1 align="center">Hi 👋, I'm PAVAN KUMAR REDDY </h1>
 <h3 align="center" style="color:#0d6efd">A Passionate Full Stack Developer from India</h3>
 
 <p align="center">
