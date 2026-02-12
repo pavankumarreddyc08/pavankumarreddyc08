@@ -65,14 +65,7 @@
 
 ---
 
-## 🔥 GitHub Streaks
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=pavankumarreddyc08&theme=tokyonight&fire=FF6F00&ring=FF6F00&currStreakLabel=FF6F00&hide_border=true" 
-    alt="GitHub Streak Stats"
-  />
-</p>
 
 
 ---
