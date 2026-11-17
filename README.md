@@ -1,112 +1,78 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar Reddy C</h1>
-<h3 align="center" style="color:#0d6efd">
-🚀 Full Stack Developer | Java & Spring Boot | AI & ML Enthusiast
-</h3>
+# Hi, I'm Pavan Kumar Reddy 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavankumarreddyc08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/pavankumarreddyc08?label=Followers&style=social" alt="GitHub Followers"/>
-</p>
+### Computer Science undergraduate | Java · SQL · AWS · Networking
 
----
+I’m interested in building useful software and learning how cloud and IT infrastructure work in practice. I enjoy solving problems step by step, from writing Java programs and SQL queries to troubleshooting networks and exploring AWS services.
 
-## 👨‍💻 About Me
+- ☁️ Preparing for the **AWS Certified CloudOps Engineer – Associate (SOA-C03)** certification
+- 🌐 Building my foundations in **networking, IT infrastructure, and cloud operations**
+- ☕ Practicing **Java, data structures, and problem solving**
+- 🤝 Interested in entry-level opportunities and collaborative projects in software, cloud, and infrastructure
 
-🎓 Final-year **B.Tech Computer Science Engineering** student from **GITAM University, Bengaluru**  
-💡 Passionate about building **scalable full-stack applications** and **AI-powered solutions**  
-🧠 Strong foundations in **Java, Data Structures, APIs, and Web Development**
+## Featured Projects
 
-- 🔭 Currently working on **TetraCare+** — an AI-powered healthcare chatbot (Hackathon Project)
-- 🌱 Actively learning **Spring Boot, Backend Engineering, App Development & API Integration**
-- 🤝 Open to collaborating on **Open-source, Full Stack & AI/ML projects**
-- 🧩 Interested in **chatbots, system design, multilingual AI & real-world problem solving**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, React, ML basics & DSA**
-- 📫 Reach me at **pavankumarreddyc08@gmail.com**
+### Briefora — Multilingual AI Document Assistant
+A document summarization and chat application that lets users upload files, review extracted text, ask document-based questions with source excerpts, and translate summaries.
 
----
+**Built with:** React, Vite, Node.js, Express, SQLite, OpenRouter, Sarvam AI  
+**Highlights:** multilingual interface, document history, source-grounded answers, and DOCX/PDF/text exports
 
-## 🏗️ Featured Projects
+### Enterprise Network Design — Cisco Packet Tracer
+Designed and simulated a network with routers, switches, PCs, and servers. Configured VLANs, inter-VLAN routing, static routing, and Layer 3 switching.
 
-### 🩺 **TetraCare+ – AI Healthcare Assistant**
-- AI-powered chatbot for healthcare guidance  
-- Features: voice input, dark mode, chat history, file upload  
-- Frontend: HTML, CSS, JavaScript  
-- Backend (in progress): Spring Boot + APIs  
+## More Projects
 
-### 🌱 **Plant Disease Detection System**
-- CNN-based image classification for crop disease detection  
-- Focused on Onion, Tomato & Potato leaves  
-- Built using Python, TensorFlow & Deep Learning  
-- Designed for farmer-friendly accessibility
+### TetraCare+ — AI Healthcare Assistant
+An AI-powered chatbot concept for healthcare guidance, with voice input, chat history, dark mode, and file upload. The backend was planned with Spring Boot and APIs.
 
-### 💬 **Multilingual Conversational Loan Advisor**
-- AI chatbot for loan eligibility & financial literacy  
-- Supports multiple languages  
-- Built during a national-level hackathon (24-hour sprint)
+**Built with:** HTML, CSS, JavaScript
 
----
+### Plant Disease Detection System
+A CNN-based image classification project focused on identifying diseases in onion, tomato, and potato leaves, with farmer-friendly use in mind.
+
+**Built with:** Python, TensorFlow, deep learning
+
+### Multilingual Conversational Loan Advisor
+A multilingual chatbot concept for loan eligibility guidance and financial literacy, developed during a 24-hour national-level hackathon.
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light" alt="Java, Python, JavaScript, HTML, and CSS"/>
 </p>
 
 ### ⚙️ Frameworks & Libraries
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs&theme=light" alt="Spring, React, and Node.js"/>
 </p>
 
 ### 🗄️ Databases & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github&theme=light" alt="MySQL, MongoDB, Git, and GitHub"/>
 </p>
-
----
-
-
-
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankumarreddyc08&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarreddyc08&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pavankumarreddyc08&show_icons=true&theme=tokyonight" height="180" alt="Pavan's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarreddyc08&theme=tokyonight" height="180" alt="GitHub contribution streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarreddyc08&layout=compact&theme=tokyonight"/>
-</p>
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankumarreddyc08&theme=github-dark&hide_border=true"/>
-</p>
+- Email: [pavankumarreddyc08@gmail.com](mailto:pavankumarreddyc08@gmail.com)
+- [LinkedIn](https://linkedin.com/in/pavan-kumar-reddy-c)
+- [LeetCode](https://leetcode.com/u/pavanreddy_080304/)
+- [HackerRank](https://www.hackerrank.com/pavan73538)
 
 ---
 
-## 🌐 Connect With Me
+*Learning by building, practicing, and improving one project at a time.*
 
-<p align="center">
-  <a href="https://linkedin.com/in/pavan-kumar-reddy-c" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/pavanreddy_08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/pavan_reddy.08" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/pavan73538" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/pavanreddy_080304/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
 
----
 
-<h3 align="center">✨ “Building solutions that matter, one commit at a time.” ✨</h3>
+
