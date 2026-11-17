@@ -1,13 +1,18 @@
-# Hi, I'm Pavan Kumar Reddy 👋
+# Hi, I'm Pavan Kumar Reddy C 👋
 
-### Computer Science undergraduate | Java · SQL · AWS · Networking
+### Working professional | Java · SQL · AWS · Networking
 
-I’m interested in building useful software and learning how cloud and IT infrastructure work in practice. I enjoy solving problems step by step, from writing Java programs and SQL queries to troubleshooting networks and exploring AWS services.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavankumarreddyc08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/pavankumarreddyc08?label=Followers&style=social" alt="GitHub followers"/>
+</p>
+
+I’m a technology professional focused on cloud operations, networking, and practical software development. I enjoy solving real-world problems and growing my skills through hands-on projects across Java, web technologies, and AWS.
 
 - ☁️ Preparing for the **AWS Certified CloudOps Engineer – Associate (SOA-C03)** certification
-- 🌐 Building my foundations in **networking, IT infrastructure, and cloud operations**
-- ☕ Practicing **Java, data structures, and problem solving**
-- 🤝 Interested in entry-level opportunities and collaborative projects in software, cloud, and infrastructure
+- 🌐 Growing my expertise in **networking, IT infrastructure, and cloud operations**
+- ☕ Continuing to sharpen **Java, data structures, and problem-solving**
+- 🤝 Open to collaborating on projects in **software, cloud, and infrastructure**
 
 ## Featured Projects
 
@@ -49,6 +54,11 @@ A multilingual chatbot concept for loan eligibility guidance and financial liter
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs&theme=light" alt="Spring, React, and Node.js"/>
 </p>
 
+### ☁️ Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws&theme=light" alt="Amazon Web Services (AWS)"/>
+</p>
 ### 🗄️ Databases & Tools
 
 <p align="center">
@@ -62,16 +72,21 @@ A multilingual chatbot concept for loan eligibility guidance and financial liter
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankumarreddyc08&theme=tokyonight" height="180" alt="GitHub contribution streak"/>
 </p>
 
-## Connect
+## 🌐 Connect With Me
 
-- Email: [pavankumarreddyc08@gmail.com](mailto:pavankumarreddyc08@gmail.com)
-- [LinkedIn](https://linkedin.com/in/pavan-kumar-reddy-c)
-- [LeetCode](https://leetcode.com/u/pavanreddy_080304/)
-- [HackerRank](https://www.hackerrank.com/pavan73538)
+<p align="center">
+  <a href="mailto:pavankumarreddyc08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/pavan-kumar-reddy-c"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/pavanreddy_080304/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/pavan73538"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+</p>
 
 ---
 
 *Learning by building, practicing, and improving one project at a time.*
+
+
+
 
 
 
