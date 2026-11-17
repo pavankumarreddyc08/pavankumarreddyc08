@@ -1,6 +1,6 @@
 # Hi, I'm Pavan Kumar Reddy C 👋
 
-### Working professional | Java · SQL · AWS · Networking
+### Aspiring Cloud Operations Engineer | Java · SQL · AWS · Networking
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavankumarreddyc08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
